@@ -3,17 +3,17 @@
     "descricao": "Eliminatórias Supercopa do Brasil Feminina 2023",
     "local": {
       "nome": "NEO QUÍMICA ARENA",
-      "imagem": "TODO"
+      "imagem": "https://www.neoquimica.com.br/assets/images/noticias/thumbnail-neo-quimica-arena-recebe-novas-pinturas-de-teto.png"
     },
     "mandante": {
       "nome": "Corinthians",
       "forca": 5,
-      "imagem": "TODO"
+      "imagem": "https://seuladogeek.com.br/wp-content/uploads/2022/02/simbolo-do-corinthians-png-e-vetor-800x450.png"
     },
     "visitante": {
       "nome": "Internacional",
       "forca": 4,
-      "imagem": "TODO"
+      "imagem": "https://seeklogo.com/images/S/Sport_Club_Internacional_de_Porto_Alegre-logo-506DF7C9D4-seeklogo.com.png"
     }
   }
 ]
