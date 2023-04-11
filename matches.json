@@ -13,7 +13,7 @@
     "visitante": {
       "nome": "Flamengo",
       "forca": 2,
-      "imagem": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/artigos/34124/1680984673.jpeg"
+      "imagem": "https://seuladogeek.com.br/wp-content/uploads/2022/02/simbolo-flamengo-png-e-vetor.png"
     }
   },
   {
@@ -25,12 +25,12 @@
     "mandante": {
       "nome": "Flamengo",
       "forca": 5,
-      "imagem": "https://fla-bucket-s3-us.s3.amazonaws.com/public/images/artigos/34124/1680984673.jpeg"
+      "imagem": "https://seuladogeek.com.br/wp-content/uploads/2022/02/simbolo-flamengo-png-e-vetor.png"
     },
     "visitante": {
       "nome": "Real Brasília",
       "forca": 2,
-      "imagem": "https://upload.wikimedia.org/wikipedia/pt/4/40/RealBras%C3%ADliaFC.png"
+      "imagem": "https://pbs.twimg.com/profile_images/1632428766155661316/tlIHEm3j_400x400.jpg"
     }
   },
   {
