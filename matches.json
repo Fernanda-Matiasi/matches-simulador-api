@@ -1,8 +1,8 @@
 [
   {
-    "descricao": "Final Supercopa do Brasil Feminina 2023",
+    "descricao": "Final Supercopa Feminina 2023",
     "local": {
-      "nome": "NEO QUÍMICA ARENA",
+      "nome": "Neo Química Arena",
       "imagem": "https://www.neoquimica.com.br/assets/images/noticias/thumbnail-neo-quimica-arena-recebe-novas-pinturas-de-teto.png"
     },
     "mandante": {
@@ -19,7 +19,7 @@
   {
     "descricao": "Eliminatórias Supercopa do Brasil Feminina 2023",
     "local": {
-      "nome": "LUSO BRASILEIRO",
+      "nome": "Luso Brasileiro",
       "imagem": "https://www.flaresenha.com/wp-content/uploads/2017/06/ate-votacao-estadio-luso-brasileiro-se-chamara-arena-flamengo-1.jpg"
     },
     "mandante": {
@@ -36,7 +36,7 @@
   {
     "descricao": "Eliminatórias Supercopa do Brasil Feminina 2023",
     "local": {
-      "nome": "NEO QUÍMICA ARENA",
+      "nome": "Neo Química Arena",
       "imagem": "https://www.neoquimica.com.br/assets/images/noticias/thumbnail-neo-quimica-arena-recebe-novas-pinturas-de-teto.png"
     },
     "mandante": {
